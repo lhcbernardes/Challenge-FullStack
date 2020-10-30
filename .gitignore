@@ -1,0 +1,9 @@
+# Node modules
+server/node_modules
+front/node_modules
+
+# Adonis directory for storing tmp files
+server/tmp
+
+# The development sqlite file
+server/database/adonis.sqlite
