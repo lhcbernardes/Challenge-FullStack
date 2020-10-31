@@ -24,7 +24,7 @@
     "@adonisjs/framework": "^5.0.7",
     "@adonisjs/ignitor": "^2.0.6",
     "@adonisjs/lucid": "^5.0.4",
-    "pg": "^7.4.3",
+    "pg": "^7.18.2",
     "sqlite3": "^5.0.0"
   },
   "devDependencies": {
